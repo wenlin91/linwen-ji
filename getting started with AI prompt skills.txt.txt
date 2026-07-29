@@ -1,0 +1,66 @@
+
+
+                                                      Getting Started with AI Prompt Skills
+
+    When people first start using AI, it can feel like dealing with a "not-so-bright intern": you ask a question, it answers, but sometimes it misses the point or rambles. The issue isn¡¯t that AI isn¡¯t smart, it¡¯s that your prompting skills need work. To get AI to produce accurate, useful, high-quality content, how you choose and input prompts is crucial; without good prompts, AI can¡¯t really grasp your needs.
+    
+
+The guiding principles for crafting prompts can be summarised as: be clear and straightforward, include all instruction elements, describe things specifically and with measurable detail, define clear output boundaries, keep your sentences logical, make it relevant and practical to the scenario, set proper constraints, communicate step by step, and review and iterate content continuously. Based on these principles and the way humans and AI collaborate, getting started with AI prompt skills can be broken down into five areas: basic structure, classic techniques, constraints and formatting, multi-turn questioning, and avoiding pitfalls plus iteration.  
+
+1. Basic Structure of AI Prompts 
+    When facing the input box, the most awkward part for beginners is not knowing how to write prompts, which leads to incomplete content and poor output. The basic structure of prompts is a standard instruction framework used across industries, similar to a writing outline. Beginners only need to apply the framework to fill in the content and quickly produce competent, complete entry-level prompts. All subsequent techniques, optimisations, and follow-up questions are built on this foundation. 
+    Prompt Basic Structure = Identity Positioning Core Requirements Content Background Details Requirements Output Format. 
+    Identity: Inform the AI about its role, such as copywriter, teacher, designer, science blogger, etc. 
+    Core needs: Clearly state what you want the AI to do, such as creating, answering, summarising, rewriting, and planning. 
+    Content background: Supplement premises, scenarios, materials, purposes, and target audience. 
+    Detail requirements: Clearly define content length, language style, professionalism, focus, and key difficulties. 
+    Output format: Specifies layout methods, point styles, paragraph structure, or forms such as tables, short sentences, outlines, etc. 
+    These five steps can also be seen as human-machine collaboration workflows: identity positioning ¡ú core requirements ¡ú content background ¡ú detail requirements ¡ú output format. Inputting this usually yields a satisfactory output.
+
+2. Classic Techniques 
+    Once you get the basics down, you can quickly and easily create content using classic techniques. These methods have been honed through lots of practice, are simple to use, don¡¯t require complex writing skills, and don¡¯t need you to add loads of extra words. Just tweaking the original structure a bit and improving how you express things can really boost accuracy, making them perfect for daily study, office writing, planning life, Q&A, creative writing and more. Beginners can pick what they need without trying to do everything at once. Here are eight classic tips: 
+    Make instructions concrete: ditch vague and unclear words. In everyday talk, phrases like "write better," "be more detailed," or "keep it simple" are vague and should be swapped for clear prompts with exact word count, content depth, and info scope. 
+    Set the scenario first: explain the context, user groups, and future use before stating core needs. The AI will then focus on creating content tailored to that scenario. 
+    Boost character: Enhance AI identity tags, include domain-specific info, strengthen professional traits, and avoid generic, bland answers. 
+    Use positive and negative notes: Clearly state what should be kept and what should be cut, filtering out useless content. 
+    Set limits: Control the number of entries, paragraphs, and text length to avoid overly long, useless or incomplete content. 
+    Provide examples: Give sample essay styles and sentence patterns as references so AI can copy the writing style and structure. 
+    Layer logically: List requirements with sequence numbers to organise instructions clearly so AI doesn¡¯t miss anything. 
+    Highlight key points: Mark keywords and priorities so AI stays focused on the main content.
+
+3. Constraints and Formats 
+    Constraints set the limits for AI's output to prevent going off-topic, being redundant, or straying from the scope; Format defines how the AI should structure its final reply, making it easy to copy and use, and ensures the prompt works as intended.     Constraints fall into five types: 
+    Scope Constraint: Keep topics and fields within limits, and avoid unrelated content.     Content Constraints: Control detail, readability, and length; skip unnecessary wordiness. 
+    Style Constraints: Fix writing style like formal, casual, funny, precise, concise, or artistic. 
+    Taboo Constraints: Cut out sensitive, redundant, repetitive, exaggerated, or irrelevant statements. 
+    Permission Constraints: Only answer, only summarise, only rewrite, no extra expansion. 
+    Constraints should be at the end of the prompt, written clearly and briefly, without repetition, and must be consistent. 
+    Common formats include numbered lists, bullet points, short paragraphs, tables, Q&A style, keyword extraction, mind maps, or plain condensed versions. Beginners should stick to numbered dot lists as they're easy to follow. Format instructions go at the end, written briefly and clearly to keep things consistent.
+
+4. Multiple rounds of follow-up questions 
+    In real-world use, the first AI output often has mistakes and is incomplete. If one prompt doesn¡¯t give you what you need, try several rounds of follow-up questions. These rounds are basically a continuous back-and-forth between humans and AI, using step-by-step extra instructions and gradually refining the content from a rough draft to the final version. 
+    The process is: initial question ¡ú AI reply ¡ú extra instruction ¡ú second optimisation ¡ú fine-tuning ¡ú final draft. By adding, refining, and tweaking instructions along the way, you improve the results step by step¡ªthis is key for getting the best out of AI. 
+    A full multi-round follow-up is usually broken into five stages: 
+    Round 1: Give basic prompts to get the first draft; 
+    Round 2: Highlight issues in the first draft and add detailed instructions; 
+    Round 3: Adjust what the content focuses on and remove extra information; 
+    Round 4: Tweak the language style and fix content errors; 
+    Round 5: Standardise formatting and finish the draft. 
+    The idea is not to dump all complicated instructions at once but to add and refine them gradually, making it easier for the AI to understand and produce better results.
+
+5. Summary of the Three-Step AI Prompt Learning Method 
+    The industry generally agrees that the best AI prompt learning path for beginners is in three steps: imitation, transformation, and iteration. The process moves step by step, with no learning barriers, so it¡¯s suitable for everyone, and it works best when used alongside the five main knowledge points mentioned earlier. 
+    Imitation: At the beginner stage, just copy the full structure, sentence logic, and element arrangement of high-quality prompts, use the templates as they are, don¡¯t change the framework yourself, and quickly get used to the writing logic;     Transformation: At the intermediate stage, based on the original template, swap in your own specific needs, usage scenarios, space limits, language style, and output format to fit your work and study; 
+    Iteration: At the advanced stage, use AI outputs to spot faults, optimise instructions, avoid mistakes, refine over several rounds, build your own templates, and create a long-term improvement loop.
+
+Practical Exercises 
+    1. Practice: Copy the structure of general basic prompts, create workplace learning planning prompts, use clear bullet points, add identity rules, and finish beginner imitation writing exercises. 
+    2. Practice: Link multi-round follow-up logic to change simple prompts, set length requirements, remove unclear words, and carry out prompt optimisation and iterative practice.
+
+
+
+
+
+    
+
+      
